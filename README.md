@@ -32,6 +32,6 @@ AS an avid traveller, I want  to be able to track my withdrawals and deposits wi
 
 ## Demo
 
-View the the app via heroku: https://git.heroku.com/budget-trackermarthagamez211.git 
+View the the app via heroku: https://budget-trackermarthagamez211.herokuapp.com/ 
 
 

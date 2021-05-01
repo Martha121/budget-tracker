@@ -15,14 +15,14 @@ AS an avid traveller, I want  to be able to track my withdrawals and deposits wi
 
 ## Technologies
 
--HTML5
--CSS
--jQuery
--Express
--MongoDB
--Mongoose
--IndexedDB
--Bootstrap
+- HTML5
+- CSS
+- jQuery
+- Express
+- MongoDB
+- Mongoose
+- IndexedDB
+- Bootstrap
 
 ## Usage
 - Make sure you have MongoDB installed on your machine 
